@@ -1,4 +1,11 @@
+
 Notas del lenguaje c++.
 
 Diego Velázquez.
-Cambio 1 -> agregué este renglón. 
+Cambio 1 -> agregué este renglón.
+
+lo que tu quieras
+
+o
+
+lo que yo quiera
