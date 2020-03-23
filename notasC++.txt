@@ -1,3 +1,4 @@
 Notas del lenguaje c++.
 
 Diego Velázquez.
+Cambio 1 -> agregué este renglón. 
