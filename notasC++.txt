@@ -1,0 +1,3 @@
+Notas del lenguaje c++.
+
+Diego Velázquez.
