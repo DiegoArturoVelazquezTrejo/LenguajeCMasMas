@@ -1,0 +1,18 @@
+#include "Arbol.h"
+
+using namespace std; 
+
+int main(){
+    Arbol *a = new Arbol(); 
+    a -> agregar(9); 
+    a -> agregar(78); 
+    a -> agregar(93); 
+    a -> agregar(12); 
+    a -> agregar(45); 
+    a -> agregar(34); 
+    a -> agregar(0); 
+    a -> agregar(123);
+
+    a -> ver();  
+    return 0; 
+}
